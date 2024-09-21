@@ -21,5 +21,5 @@ I’m Luna Liu, a results-driven Data Science MS Candidate with expertise in app
 
 
 ### Served Company:
-![EY](/assets:111.png)
+![EY](/assets/img/111.png)
 
