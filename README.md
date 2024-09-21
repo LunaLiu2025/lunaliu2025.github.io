@@ -21,5 +21,5 @@ I’m Luna Liu, a results-driven Data Science MS Candidate with expertise in app
 
 
 ### Served Company:
-![EY](/assets/img/eeg_band_discovery.jpeg)
+![EY](/assets/img/111.webp)
 
