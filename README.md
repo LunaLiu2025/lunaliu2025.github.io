@@ -2,7 +2,7 @@
 
 I’m Luna Liu, a results-driven Data Science MS Candidate with expertise in applying advanced data analytics and machine learning techniques. I am consistently successful in model& dashboard development and data visualization to support collaboration and cross- functional teamwork of digital strategy teams to grow P&L.
 
-#### Key skills:
+### Key skills:
 **Coding Experience**:
 - Improved the efficiency of database communication by leveraging SQL expertise to design optimized queries and workflows. Utilized Lucid chart to create detailed Entity-Relationship (ER) diagrams, streamlining the cloud-based data architecture process and ensuring data integrity.
 - Improved operational efficiency 20% by designing structured data asset catalog using VLOOKUP and Python.
