@@ -1,4 +1,5 @@
 # Data Scientist
+[Email](luna.yy.liu@gmail.com)/  [LinkedIn](Luna.yy.liu@gmail.com)/  [Phone](2028020367)
 
 I’m Luna Liu, a results-driven Data Science MS Candidate with expertise in applying advanced data analytics and machine learning techniques. I am consistently successful in model& dashboard development and data visualization to support collaboration and cross- functional teamwork of digital strategy teams to grow P&L.
 
