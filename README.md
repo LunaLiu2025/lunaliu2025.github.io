@@ -20,6 +20,7 @@ I’m Luna Liu, a results-driven Data Science MS Candidate with expertise in app
 - Led 10 academic projects and organized numerous events successfully.
 
 
-### Served Company:
-![EY](/assets/img/111.png)
+### Served Company before:
+![EY](/assets:img/ey.png)
+![MS](/assets:img/MS.png)
 
